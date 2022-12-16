@@ -6,7 +6,7 @@
 <h1>welcome to devops !</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully launched your role!</h2>
+<h2>You have successfully launched your project!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
